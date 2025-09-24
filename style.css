@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(247, 241, 222);
+}
+h2{
+  color:rgb(71 ,49 ,3);
+}
+h1{
+  color:white;
+  background-color:black
+}
+#sanaa{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
